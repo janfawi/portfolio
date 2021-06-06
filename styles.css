@@ -1,0 +1,28 @@
+h1 {
+  font-size: x-large;
+  color: blueviolet;
+  text-align: center;
+  border: 5px red dotted;
+  padding: 50px 5px 5px 5px;
+}
+h2 {
+  color: blue;
+  font-size: x-large;
+}
+.x1 {
+  color: brown;
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#x2 {
+  color: brown;
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+  margin: 10px;
+}
+img {
+  margin: left 50%;
+}
